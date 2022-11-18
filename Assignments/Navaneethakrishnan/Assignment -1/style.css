@@ -1,0 +1,29 @@
+.heading{
+    padding:1%;
+	color:white;
+	background-color: black;
+	font-size:42px;
+}
+
+.details{
+	margin-left:45%;
+	margin-top:5%;
+}
+
+.btn{
+	margin-left:4%;
+	height:40px;
+	width:90px;
+	background-color:rgb(10, 147, 177);
+}
+
+.btn:hover{
+	height:40px;
+	width:90px;
+	background-color:rgb(2, 19, 12);
+	color:white;
+}
+
+.input{
+	height:30px;
+}
